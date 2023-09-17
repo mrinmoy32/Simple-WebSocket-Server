@@ -32,7 +32,9 @@ npm start
 ```
 
 2. Open the client.html file in your web browser. You should see a simple web page with an input field and a "Send" button.
+
 3. Enter a message in the input field and click "Send." The message will be sent to the server, which will log it and send a response back to the client.
+
 4. Check the browser's developer console to view the WebSocket connection status and messages sent and received.
 
 ## Acknowledgments
